@@ -1,0 +1,8 @@
+@import url("./reset.css");
+html {
+  background: hsl(222, 26%, 31%);
+}
+
+body {
+  font-weight: 700;
+}
