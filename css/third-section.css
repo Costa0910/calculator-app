@@ -1,0 +1,34 @@
+.third-section {
+  /* border: 1px solid violet; */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.third__section-items {
+  display: flex;
+  gap: 4%;
+}
+
+.item {
+  border: 1px solid;
+  width: 21.5%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.third__section-buttons {
+  /* border: 1px solid; */
+  display: flex;
+  gap: 4%;
+}
+
+.third__section-buttons button{
+  height: 51px;
+  width: 48%;
+  cursor: pointer;
+}
